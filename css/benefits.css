@@ -224,21 +224,18 @@ nav div span i {
 
 .benefits-heading {
 	position: absolute;
-	margin-top: -4%;
-	margin-left: 5%;
+	margin-top: -7%;
 }
 
 .benefits-heading h1 {
-	
-	text-align: center !important;
 	font-weight: 900;
-	font-size: 6.5vw;
+	font-size: 10vw;
 	overflow: hidden;
 	/* overflow-wrap: break-word !important; */
 	white-space: nowrap;
-	margin-left: -25px;
 	letter-spacing: 0.15em;
-
+	margin-left: 10px;
+	
 }
 
 
@@ -269,9 +266,8 @@ h1{
 .ownership {
 	border: 1px solid orange;
 	border-radius: 10px;
-	/* height: 350px; */
-
 	font-size: 30px;
+	margin-top: 10px !important;
 	
 }
 
