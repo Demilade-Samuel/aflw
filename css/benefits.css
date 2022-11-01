@@ -3,6 +3,7 @@
 body {
 	overflow-x: hidden;
 		background-color: #cc8132 !important;
+		color:#000000 !important;
 }
 
 * {
@@ -217,7 +218,7 @@ nav div span i {
 }
 
 .benefits {
-	color: #ffffff;
+	
 	margin: 0 0 0 0;
 }
 
@@ -228,7 +229,7 @@ nav div span i {
 }
 
 .benefits-heading h1 {
-	color: #ffffff;
+	
 	text-align: center !important;
 	font-weight: 900;
 	font-size: 6.5vw;
@@ -258,24 +259,29 @@ nav div span i {
 	border: 2px solid #fff !important;
 	backdrop-filter: blur(2px);
 	box-shadow: -6px 8px 2px rgb(29 29 29 / 40%);
+	
+}
+
+h1{
+	font-weight: 900 !important;
 }
 
 .ownership {
 	border: 1px solid orange;
 	border-radius: 10px;
 	/* height: 350px; */
-	color: #ffffff;
+
 	font-size: 30px;
-	font-weight: 900;
+	
 }
 
 .exclusive {
 	border: 1px solid orange;
 	border-radius: 10px;
 	/* height: 350px; */
-	color: #ffffff;
+	
 	font-size: 30px;
-	font-weight: 900;
+	
 }
 
 .invite {
@@ -286,10 +292,10 @@ nav div span i {
 	/* background: rgba(200, 180, 200, 0.5) !important; */
 	/* width: 48%/; */
 	/* opacity: .4 !important; */
-	color: #ffffff;
+	
 	/* margin: 20px 0 0 0px; */
 	font-size: 30px;
-	font-weight: 900;
+	
 	/* float: left; */
 }
 
@@ -300,10 +306,10 @@ nav div span i {
 	border-radius: 10px;
 	/* height: 350px; */
 	/* width: 48%; */
-	color: #ffffff;
+
 	/* margin: 20px 0 0 20px; */
 	font-size: 30px;
-	font-weight: 900;
+	
 	/* float: left; */
 }
 
